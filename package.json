@@ -10,7 +10,7 @@
   "author": "Brayan Abraham",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
